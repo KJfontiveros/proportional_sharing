@@ -1,4 +1,4 @@
-# Proportional Fee Revenue Sharing
+# Hati-Hati Yield
 
 Proportional Fee Revenue Sharing addresses this by turning the workflow into a Stellar testnet record with clear state transitions. Everyday payment workflows need wallet-native settlement, verifiable records, and simple testnet onboarding.
 
